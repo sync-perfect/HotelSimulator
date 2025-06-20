@@ -2,6 +2,8 @@
 
 Welcome to **HotelSimulator** — a simple, interactive simulation project designed to help beginners understand HTML, CSS, and JavaScript through a fun hotel check-in and dining experience.
 
+***Check it out*** - https://sync-perfect.github.io/HotelSimulator/
+
 ---
 
 ## ✨ Features

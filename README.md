@@ -18,8 +18,11 @@ Welcome to **HotelSimulator** — a simple, interactive simulation project desig
 ## 📁 Project Structure
 
 HotelSimulator/
+
 ├── index.html # Main HTML page
+
 ├── style.css # Styling for UI
+
 └── script.js # JavaScript logic for simulation
 
 ---
@@ -33,16 +36,18 @@ To run the project locally:
    git clone https://github.com/your-username/HotelSimulator.git
 
 2. **Navigate into the folder**
+   ```bash
    cd HotelSimulator
 
-3. **Open index.html in your browser**
+4. **Open index.html in your browser**
+   
    Simply double-click the file or use a live server extension (e.g., Live Server in VS Code).
 
-**🛠 Tech Stack**
+## 🛠 Tech Stack
     HTML5 for structure
     CSS3 for styling and animations
     Vanilla JavaScript for logic and interactivity
 
-**🙌 Author**
+## 🙌 Author
     Built by Kohinoor Tiwari
     #StayInTheLoop
